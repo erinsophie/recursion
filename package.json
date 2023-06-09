@@ -1,0 +1,27 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "Completed as part of The Odin Project's computer science recursion course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erinsophie/recursion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erinsophie/recursion/issues"
+  },
+  "homepage": "https://github.com/erinsophie/recursion#readme",
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "prettier": "2.8.8"
+  }
+}
