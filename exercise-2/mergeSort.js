@@ -42,4 +42,4 @@ function merge(left, right) {
 
 console.log(mergeSort([2, 1, 2, 1, 1, 2])); // [ 1, 1, 1, 2, 2, 2 ]
 console.log(mergeSort([3, 2, 1, 3, 7, 5])); // [ 1, 2, 3, 3, 5, 7 ]
-console.log(mergeSort([4, 2, 16, 10, 11, 8, 9])); // [ 2, 4, 8, 9, 10, 16 ]
+console.log(mergeSort([4, 2, 16, 10, 11, 8, 9])); // [ 2, 4, 8, 9, 10, 11, 16 ]
